@@ -1,2 +1,3 @@
 # Resume
-My updtaed resume for campus placements
+This repository contains my updated resume for campus placements.
+
